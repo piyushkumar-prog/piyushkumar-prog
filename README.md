@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Finalboss77&label=Profile%20views&color=ce9927&style=flat" alt="Finalboss77" /> </p>
+
 - 👋 Hi, I’m @Finalboss77
 - I’m internet privacy & security advocate.
 - I’m currently learning App development.
