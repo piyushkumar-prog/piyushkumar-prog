@@ -1,3 +1,9 @@
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" alt="php" width="45" height="45"/>
+</p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Finalboss77&label=Profile%20views&color=ce9927&style=flat" alt="Finalboss77" /> </p>
 
 - 👋 Hi, I’m @Finalboss77
