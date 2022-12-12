@@ -26,7 +26,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Finalboss77&layout=compact)](https://github.com/Finalboss77/github-readme-stats)
 
-[![Follow on Mastodon](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Mastodon_Logotype_%28Simple%29.svg/216px-Mastodon_Logotype_%28Simple%29.svg.png)](https://mas.to/@finalboss)
+[![Follow on Mastodon](https://seeklogo.com/images/M/mastodon-logo-AAA76BE2CA-seeklogo.com.png)](https://mas.to/@finalboss)
 
 
 <p align="center">
