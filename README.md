@@ -26,12 +26,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Finalboss77&layout=compact)](https://github.com/Finalboss77/github-readme-stats)
 
-[![Follow on Mastodon](https://seeklogo.com/images/M/mastodon-logo-AAA76BE2CA-seeklogo.com.png)](https://mas.to/@finalboss)
-
 
 <p align="center">
 <img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="php" width="400" height="400"/>
 </p>
+
 
 <!---
 Finalboss77/Finalboss77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
