@@ -8,9 +8,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Finalboss77&label=Profile%20views&color=ce9927&style=flat" alt="Finalboss77" /> </p>
 
-- 👋 Hi, I’m @Finalboss77
-- I’m internet privacy & security advocate.
-- I’m currently learning App development.
+- 👋 Hi, I’m @piyushkumar-prog
+- I’m interested in learning App development.
 
 <picture>
 <source 
@@ -33,6 +32,6 @@
 
 
 <!---
-Finalboss77/Finalboss77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+piyushkumar-prog/piyushkumar-prog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
