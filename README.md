@@ -26,11 +26,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushkumar-prog&layout=compact)](https://github.com/piyushkumar-prog/github-readme-stats)
 
 
-<p align="center">
-<img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="php" width="400" height="400"/>
-</p>
-
-
 <!---
 piyushkumar-prog/piyushkumar-prog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
