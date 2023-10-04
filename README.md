@@ -4,8 +4,8 @@ I'm a first year student pursuing Bachelors's in Computer Science 🎓 from AKTU
 I’m looking to collaborate on any Open Source Project involving Python.
 
 You can reach me with the links below
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushkr372004@gmail.com) 
- [![LinkedIn](https://www.linkedin.com/in/piyush-kumar-prog)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushkumar.prog@gmail.com) 
+ [![LinkedIn](https://www.linkedin.com/in/piyush-kumar-prog/)
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="vscode" width="45" height="45"/>
