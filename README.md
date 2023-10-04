@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F2F5F7&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Piyush+kumar)](https://git.io/typing-svg)
 👋 Hi, I’m Piyush kumar.
 
 I'm a first year student pursuing Bachelors's in Computer Science 🎓 from AKTU University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also do my own research on internet privacy & security👨🏻‍💻. I'm currently into software Development.
