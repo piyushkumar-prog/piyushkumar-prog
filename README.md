@@ -5,7 +5,8 @@ I’m looking to collaborate on any Open Source Project involving Python.
 
 You can reach me with the links below
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushkumar.prog@gmail.com) 
- [![LinkedIn](https://www.linkedin.com/in/piyush-kumar-prog/)
+
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-kumar-prog)
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="vscode" width="45" height="45"/>
