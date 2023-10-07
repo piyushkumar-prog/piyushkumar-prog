@@ -11,6 +11,7 @@ You can reach me with the links below
 
 ##### Languages I use
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 ##### Learning
