@@ -20,25 +20,12 @@ You can reach me with the links below
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
 <a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="32px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
   
-</p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=piyushkumar-prog&label=Profile%20views&color=ce9927&style=flat" alt="piyushkumar-prog" /> </p>
-
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=piyushkumar-prog&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=piyushkumar-prog_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=piyushkumar-prog&show_icons=true" />
-</picture>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushkumar-prog&layout=compact)](https://github.com/piyushkumar-prog/github-readme-stats)
 
-
+<p align="center">
+<img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=piyushkumar-prog&show_icons=true&line_height=21&theme=react" alt="piyushkumar-prog's Github Stats" />
+</p>
 <!---
 piyushkumar-prog/piyushkumar-prog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
