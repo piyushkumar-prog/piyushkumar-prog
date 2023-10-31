@@ -21,11 +21,12 @@ You can reach me with the links below
 <a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="32px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushkumar-prog&layout=compact)](https://github.com/piyushkumar-prog/github-readme-stats)
-
 <p align="center">
 <img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=piyushkumar-prog&show_icons=true&line_height=21&theme=react" alt="piyushkumar-prog's Github Stats" />
 </p>
+<a href="https://github.com/piyushkumar-prog">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushkumar-prog&layout=compact" />
+</a>
 <!---
 piyushkumar-prog/piyushkumar-prog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
