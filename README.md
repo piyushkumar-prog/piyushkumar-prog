@@ -2,7 +2,7 @@
 
 I'm a first year student pursuing Bachelors's in Computer Science 🎓 from AKTU University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains.I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also do my own research on internet privacy & security👨🏻‍💻. I'm currently into software Development.
 
-I’m looking to collaborate🤝 on any Open Source Project involving Python.
+I’m looking to collaborate🤝 on any Open Source Project involving Python,MySQL,HTML5,CCS3.
 
 #### Interested in:
 Web Development,Software development,Online privacy & Security.
