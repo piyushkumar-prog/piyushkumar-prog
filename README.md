@@ -4,18 +4,21 @@ I'm a first year student pursuing Bachelors's in Computer Science 🎓 from AKTU
 
 I’m looking to collaborate🤝 on any Open Source Project involving Python.
 
-You can reach me with the links below
+#### Interested in:
+Web Development,Software development,Online privacy & Security.
+
+You can reach me with the links below:
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushkumar.prog@gmail.com) 
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-kumar-prog)
 
-##### Languages I use
+##### Languages I learned
 <p align="center">
              <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/python.svg" height="35px" style="vertical-align:top margin:6px 4px" />
           <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/html.svg" height="35px" style="vertical-align:top margin:6px 4px" />
         <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/css3.svg" height="35px" style="vertical-align:top margin:6px 4px" />
 
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+  <code><img width="30%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 
 
 ##### Learning
@@ -23,6 +26,7 @@ You can reach me with the links below
           <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/js.svg" height="35px" style="vertical-align:top margin:6px 4px" />
 </p>
 
+##### In future
 <a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="32px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
 <br/>
   
