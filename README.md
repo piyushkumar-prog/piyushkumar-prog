@@ -19,11 +19,29 @@ You can reach me with the links below
 ##### Learning
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
 <a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="32px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
+<br/>
   
+### My latest projects
+
+<a href="https://github.com/piyushkumar-prog/Netflix-clone">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=piyushkumar-prog&repo=Netflix-clone" alt="Netflix-clone" />
+</a>
+<br/>
+<br/>
+<a href="https://github.com/piyushkumar-prog/Sign-up-page">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=piyushkumar-prog&repo=sign-up-page" alt="sign-up-page" />
+</a>
+<br/>
+<br/>
 
 <p align="center">
 <img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=piyushkumar-prog&show_icons=true&line_height=21&theme=react" alt="piyushkumar-prog's Github Stats" />
 </p>
+
+<br/>
+<br/>
+<br/>
+
 <a href="https://github.com/piyushkumar-prog">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushkumar-prog&layout=compact" />
 </a>
