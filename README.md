@@ -33,7 +33,7 @@ You can reach me with the links below:
 ### My latest projects
 
 <a href="https://github.com/Papps-Lab/Pcalculator">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=piyushkumar-prog&repo=Pcalculator" alt="Pcalculator" />
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Papps-Lab&repo=Pcalculator" alt="Pcalculator" />
 </a>
 <br/>
 <br/>
