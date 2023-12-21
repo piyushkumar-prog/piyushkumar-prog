@@ -32,13 +32,13 @@ You can reach me with the links below:
   
 ### My latest projects
 
-<a href="https://github.com/piyushkumar-prog/Netflix-clone">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=piyushkumar-prog&repo=Netflix-clone" alt="Netflix-clone" />
+<a href="https://github.com/Papps-Lab/Pcalculator">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=piyushkumar-prog&repo=Pcalculator" alt="Pcalculator" />
 </a>
 <br/>
 <br/>
-<a href="https://github.com/piyushkumar-prog/Sign-up-page">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=piyushkumar-prog&repo=sign-up-page" alt="sign-up-page" />
+<a href="https://github.com/piyushkumar-prog/OIBSIP-Level-1-Task-1-Landing_page">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=piyushkumar-prog&repo=OIBSIP-Level-1-Task-1-Landing_page" alt="OIBSIP-Level-1-Task-1-Landing_page" />
 </a>
 <br/>
 <br/>
