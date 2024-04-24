@@ -2,7 +2,7 @@
 
 I'm a first year student pursuing Bachelors's in Computer Science 🎓 from AKTU University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains.I love to explore new technologies and leverage them to solve real-life problems.I'm currently into Web Development and Web Designing. Apart from that I also do my own research on Artificial Intelligence (AI).
 
-I’m looking to collaborate🤝 on any Project involving HTML5,CCS3,Java Script,React JS and Web Designing.
+I’m looking to collaborate🤝 on any Project involving HTML5,CCS3,Java Script,React JS,TailwindCSS and Web Designing.
 
 #### Interested in:
 Web Development,Web Designing and AI.
@@ -45,13 +45,13 @@ You can reach me with the links below:
   
 ### My latest projects
 
-<a href="https://github.com/Papps-Lab/Pcalculator">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Papps-Lab&repo=Pcalculator" alt="Pcalculator" />
+<a href="https://github.com/piyushkumar-prog/pixel_music_landing_page">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=piyushkumar-prog&repo=pixel_music_landing_page" alt="Landing Page" />
 </a>
 <br/>
 <br/>
-<a href="https://github.com/piyushkumar-prog/OIBSIP-Level-1-Task-1-Landing_page">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=piyushkumar-prog&repo=OIBSIP-Level-1-Task-1-Landing_page" alt="OIBSIP-Level-1-Task-1-Landing_page" />
+<a href="https://github.com/piyushkumar-prog/OIBSIP-Level-1-Task-2-Portfolio">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=piyushkumar-prog&repo=OIBSIP-Level-1-Task-2-Portfolio" alt="Portfolio" />
 </a>
 <br/>
 <br/>
