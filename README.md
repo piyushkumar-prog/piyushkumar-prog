@@ -37,13 +37,13 @@ Web Development,Web Designing and AI.
   
 ## My latest projects
 
-<a href="https://github.com/piyushkumar-prog/pixel_music_landing_page">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=piyushkumar-prog&repo=pixel_music_landing_page" alt="Landing Page" />
+<a href="https://github.com/Papps-Lab/pAI_Chatbot">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Papps-Lab&repo=pAI_Chatbot" alt="AI Chatbot" />
 </a>
 <br/>
 <br/>
-<a href="https://github.com/piyushkumar-prog/OIBSIP-Level-1-Task-2-Portfolio">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=piyushkumar-prog&repo=OIBSIP-Level-1-Task-2-Portfolio" alt="Portfolio" />
+<a href="https://github.com/piyushkumar-prog/QuickBite_FoodWebsite">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=piyushkumar-prog&repo=QuickBite_FoodWebsite" alt="Food Website" />
 </a>
 <br/>
 <br/>
