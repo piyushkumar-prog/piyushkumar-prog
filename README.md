@@ -1,8 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F2F5F7&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Piyush+kumar)](https://git.io/typing-svg)
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+...+👋;+I'm+Piyush+Kumar!;" />
+</h1>
+
 
 I'm a first year student pursuing Bachelors's in Computer Science 🎓 from AKTU University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains.I love to explore new technologies and leverage them to solve real-life problems.I'm currently into Web Development and Web Designing. Apart from that I also do my own research on Artificial Intelligence (AI).
 
-I’m looking to collaborate🤝 on any Project involving HTML5 , CCS3 , Java Script , React JS , TailwindCSS and Web Designing.
+I’m looking to collaborate<img height="20" src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" /> on any Project involving HTML5 , CCS3 , Java Script , React JS , TailwindCSS and Web Designing.
 
 ### Interested in:
 Web Development,Web Designing and AI.
@@ -14,24 +18,24 @@ Web Development,Web Designing and AI.
 
 ### Languages and Frameworks I Learned
 <p align="center">
-             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/python.svg" height="35px" style="vertical-align:top margin:6px 4px" />
           <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/html.svg" height="35px" style="vertical-align:top margin:6px 4px" />
         <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/css3.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+         <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/js.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+           <img src="https://skillicons.dev/icons?i=react,tailwind,c" />
+           <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/python.svg" height="35px" style="vertical-align:top margin:6px 4px" />
            <img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"/>
-          <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" height="35px" style="vertical-align:top margin:6px 4px" />
 </p>
 
 
 ### Learning
 <p align="center">
-          <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/js.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-          <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" height="35px" style="vertical-align:top margin:6px 4px" />
+           <img src="https://skillicons.dev/icons?i=nodejs,express" />
+        
 </p>
 
 ### Tools
 <p align="center">
-          <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="35px" style="vertical-align:top margin:6px 4px" />
-          <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" height="35px" style="vertical-align:top margin:6px 4px" />
+            <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,postman,vercel,netlify" />
 </p>
 <br>
   
