@@ -6,7 +6,7 @@
 
 I'm a first year student pursuing Bachelors's in Computer Science 🎓 from AKTU University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains.I love to explore new technologies and leverage them to solve real-life problems.I'm currently into Web Development and Web Designing. Apart from that I also do my own research on Artificial Intelligence (AI).
 
-I’m looking to collaborate<img height="20" src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" /> on any Project involving HTML5 , CCS3 , Java Script , React JS , TailwindCSS and Web Designing.
+I’m looking to collaborate<img height="20" src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" /> on any Project involving HTML5 , CCS3 , Java Script , React JS , TailwindCSS,Node JS,React Native and Web Designing.
 
 ### Interested in:
 Web Development,Web Designing and AI.
@@ -41,8 +41,8 @@ Web Development,Web Designing and AI.
   
 ## My latest projects
 
-<a href="https://github.com/Papps-Lab/pAI_Chatbot">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Papps-Lab&repo=pAI_Chatbot" alt="AI Chatbot" />
+<a href="https://github.com/piyushkumar-prog/Mentai">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=piyushkumar-prog&repo=Mentai" alt="Mental Health assistant Chatbot" />
 </a>
 <br/>
 <br/>
