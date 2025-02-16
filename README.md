@@ -4,12 +4,15 @@
 </h1>
 
 
-I'm a 2nd year student pursuing Bachelors in Computer Science 🎓 from AKTU University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains.I love to explore new technologies and leverage them to solve real-life problems.I'm currently into Web Development and Web Designing. Apart from that I also do my own research on Artificial Intelligence (AI).
+I’m a 2nd-year Computer Science student at AKTU University with a passion for learning and applying technology to solve real-world problems. My current focus is on Web & App Development.
 
-I’m looking to collaborate<img height="20" src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" /> on any Project involving HTML5 , CCS3 , Java Script , React JS , TailwindCSS,Node JS,React Native and Web Designing.
+I have experience working with modern technologies like the MERN Stack, Next.js, and React Native, and I am always eager to collaborate on innovative projects that push boundaries. I enjoy exploring new tools, frameworks, and methodologies to enhance my skills and deliver impactful solutions.
 
-### Interested in:
-Web Development,Web Designing and AI.
+I’m actively looking for collaboration opportunities on projects or internships where I can contribute my expertise and grow as a developer.
+
+
+###### 💼 Hire Me for Freelancing:
+I am available for web and app development projects. If you're looking for a dedicated developer to bring your ideas to life, feel free to reach out!
 
 ##### You can reach me with the links below:
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushkumar.prog@gmail.com) 
