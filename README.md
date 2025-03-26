@@ -21,13 +21,13 @@ I am available for web and app development projects. If you're looking for a ded
 
 ### Languages and Frameworks I Learned
 <p align="center">
-         <img src="https://skillicons.dev/icons?i=js,typescript,nextjs,nodejs,express,react,tailwind,c,python,mongodb,mysql,html,css" />
+         <img src="https://skillicons.dev/icons?i=js,typescript,nextjs,nodejs,express,react,vite,tailwind,c,python,mongodb,mysql,html,css" />
 </p>
 
 
 ### Tools
 <p align="center">
-            <img src="https://skillicons.dev/icons?i=vscode,github,docker,figma,git,postman,vercel,netlify,npm" />
+            <img src="https://skillicons.dev/icons?i=supabase,vscode,github,docker,figma,git,postman,vercel,netlify,npm" />
 </p>
 <br>
   
